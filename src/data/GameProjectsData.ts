@@ -1,7 +1,7 @@
 import ProjectData from '@/data/ProjectData.ts'
 
 export default [
-    new ProjectData("project-1", "VR Interior Designer", "img/projects/interior.png", 
+    new ProjectData("project-1", "VR Interior Designer", "Image/Interior_Wallpaper.png", 
     `
     <div class="paragraph">
      <strong>This VR-based learning app</strong> allows users to interactively explore office space planning principles from the Open University course (ADPU4331). Users can design rooms, arrange furniture, and apply materials, learning both aesthetic and technical aspects of office space planning in a realistic virtual environment.
